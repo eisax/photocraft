@@ -10,6 +10,8 @@ Run with:  python scripts/layered_tiff_fixtures.py
 Needs:     pip install psdtags tifffile numpy
 """
 
+import utils.transport
+import utils.session
 from pathlib import Path
 
 import numpy
