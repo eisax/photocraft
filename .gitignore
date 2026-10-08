@@ -3,9 +3,12 @@ plan/
 /target
 target/
 /dist
+temp_auto_push.bat
 /corpus
 /log
 /secrets
 /temp
 /book/output
 /craft-fonts
+.gitignore
+branch_structure.json
